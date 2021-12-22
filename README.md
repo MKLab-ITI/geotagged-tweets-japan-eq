@@ -4,7 +4,15 @@ Description TBA
 
 ## Data Organization
 
-TBA
+| Property Name | Property Type | Description |
+| --------- | ----------- | ----------- |
+| \_id | String | The unique identifier of a tweet, as provided by Twitter. |
+| detected_locations | Array | An array of objects that contain information about the locations that have been extracted from a tweet’s text. |
+| location_in_text | String | The word(s) in a tweet’s text that has/have been recognized as locations after analysis. |
+| location_fullname | String | The full location name as retrieved by the OpenStreetMap API. |
+| geometry | JSON Object | A JSON object that contains information about the coordinates of the location. |
+| type | String<br> (predefined value: "Point") | A field that defines the type of the coordinates. |
+| coordinates | Array<br> (format \[latitude,longitude\]) | An array of Double values that refer to the latitude and longitude coordinates of the location, as retrieved by the OpenStreetMap API. |
 
 ## Licensing
 
