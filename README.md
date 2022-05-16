@@ -22,11 +22,19 @@ This dataset is licensed under the Creative Commons Attribution-NonCommercial In
 
 ## How to Cite
 
-TBA
+Andreadis, S., Gialampoukidis, I., Manconi, A., Cordeiro, D., Conde, V., Sagona, M., Brito, F., Pantelidis, N., Mavropoulos, T., Grosso, N. and Vrochidis, S., 2022. Earthquakes: From Twitter Detection to EO Data Processing. IEEE Geoscience and Remote Sensing Letters, 19, pp.1-5.
 
 BibTeX:
 
-    TBA
+    @article{andreadis2022earthquakes,
+        title={Earthquakes: From Twitter Detection to EO Data Processing},
+        author={Andreadis, Stelios and Gialampoukidis, Ilias and Manconi, Andrea and Cordeiro, David and Conde, Vasco and Sagona, Manuela and Brito, Fabrice and Pantelidis, Nick and Mavropoulos, Thanassis and Grosso, Nuno and others},
+        journal={IEEE Geoscience and Remote Sensing Letters},
+        volume={19},
+        pages={1--5},
+        year={2022},
+        publisher={IEEE}
+    }
 
 ## Contact
 
